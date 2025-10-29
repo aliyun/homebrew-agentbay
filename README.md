@@ -37,10 +37,7 @@ agentbay [command] [options]
 ### Update to Latest Version
 
 ```bash
-# Update Homebrew and all packages
-brew update && brew upgrade
-
-# Or update only agentbay
+# update only agentbay
 brew upgrade agentbay
 ```
 
